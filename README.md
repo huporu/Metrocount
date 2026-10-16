@@ -1,8 +1,8 @@
 #  Metrocount
 Desenvolupament d'una aplicacio per saber la quantitat que tan ple va el metro de Barcelona
  
-![Text de prova](projecte-imatge.jpg)
-![Imatge esquema resumit](metrocount.jpg)
+![Text de prova](/img/projecte-imatge.jpg)
+![Imatge esquema resumit](/img/metrocount.jpg)
 
 ## Links
 
