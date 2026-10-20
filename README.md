@@ -13,17 +13,19 @@ Desenvolupament d'una aplicacio per saber la quantitat que tan ple va el metro d
 
 ## Context
 
-La nostra idea es fer-hi en Python una demostració de com es podria fer un comptador de persones en els vagons del metro de Barcelona perquè aixì a traves d'una aplicació es pogues consultar que tan ocupat va el metro i llavors els passatgers poguesin decidir si es convenient entrar o no al vago
+La nostra idea és fer-hi en Python una demostració de com es podria fer un comptador de persones en els vagons del metro de Barcelona perquè així a través d'una aplicació es pogués consultar que tan ocupat va el metro i llavors els passatgers poguessin decidir si és convenient entrar o no al vagó
 
 ## Com es fara?
 
-Resumidament el que teniem pensat nosaltres es implementar uns sensors just a la porta dels vagons del metro perquè així compti les persones que hi pasen, la nostra forma que habiem pensat d'implementar els sensors es tractaria de dos sensors, un que s'encarregui de comptar els que entren i l'altre dels que surten, si es possible fer els sensors s'actualitzin de manera rapida i frequent (cada 0,5 segons per exemple), i que els infrarojos sapigan diferenciar quan pasen persones i quan no. <br>
+Resumidament, el que teníem pensat nosaltres és implementar uns sensors just a la porta dels vagons del metro perquè així compti les persones que hi passen, la nostra forma que havíem pensat d'implementar els sensors es tractaria de dos sensors, un que s'encarregui de comptar els que entren i l'altre dels que surten, si és possible fer els sensors s'actualitzin de manera ràpida i freqüent (cada 0,5 segons per exemple), i que els infrarojos sàpiguen diferenciar quan passen persones i quan no. <br>
+
  
-(D'Aquest tema s'ha en parlare en un altre secció sobre els que s'ens queda fora de l'abast i quins problemes podrien surgir)
+(D'Aquest tema s'hi ha en parlaré en un altra secció sobre els que se'ns queda fora de l'abast i quins problemes podrien sorgir)
 
 ## Problemes i fora d'abast
 
-Els problemes d'abast ens els quals ens podriem arribar a trobar es la precisió d'aquestes dades, un dels majors reptes d'aquest projecte esque les dades no podran ser 100% precises ja que podrien surgir problemes com que hi ha una avalancha de persones que entrin juntes al vago i que el sensor compta com si hagues entrat una persona pero en realitat hi ha entrat dues o tres persones o inclus més. <br>
-També en la part de recollida de dades els repetidors de wifi que hi han que serveixen per enviar les dades cap al servidor sobre les persones podria fallar degut a l'alta demanda de persones que estiguesin utilitzant la xarxa<br>
-Per això la nostra visió es fer que les dades siguin aproximades, encara que sempre hi busquem que sigui lo més precis possible resulta ser que es una tasca bastant complicada saber amb exactitud la quantiat real dels passatgers, per això la nostra idea es fer una barra amb colors (per exemple de verd a vermell) en la qual hi hagi una fletxa que indiqui que tan ocupat esta el tren segons les dades recollidas dels sensors
+Els problemes d'abast en els quals ens podríem arribar a trobar és la precisió d'aquestes dades, un dels principals reptes d'aquest projecte és que les dades no podran ser 100% precises, ja que podrien sorgir problemes com que hi ha una avalancha de persones que entrin juntes al vagó i que el sensor compta com si hagués entrat una persona, però en realitat hi ha entrat dues o tres persones o inclús més. <br>
 
+També en la part de recollida de dades els repetidors de wifi que hi ha que serveixen per enviar les dades cap al servidor sobre les persones podria fallar per culpa de l'alta demanda de persones que estiguessin utilitzant la xarxa<br>
+
+Per això la nostra visió és fer que les dades siguin aproximades, encara que sempre hi busquem que sigui el més precís possible resulta ser que es una tasca bastant complicada saber amb exactitud la quantitat real dels passatgers, per això la nostra idea és fer una barra amb colors (per exemple de verd a vermell) en la qual hi hagi una fletxa que indiqui que tan ocupat està el tren segons les dades recollides dels sensors.
