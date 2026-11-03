@@ -1,5 +1,4 @@
 #  Metrocount
-Desenvolupament d'una aplicacio per saber la quantitat que tan ple va el metro de Barcelona
  
 ![Text de prova](/img/projecte-imatge.jpg)
 ![Imatge esquema resumit](/img/metrocount.jpg)
@@ -13,14 +12,18 @@ Desenvolupament d'una aplicacio per saber la quantitat que tan ple va el metro d
 
 ## Context
 
-La nostra idea és fer-hi en Python una demostració de com es podria fer un comptador de persones en els vagons del metro de Barcelona perquè així a través d'una aplicació es pogués consultar que tan ocupat va el metro i llavors els passatgers poguessin decidir si és convenient entrar o no al vagó
+El nostre projecte de Metrocount s'enmarca com si fossim uns treballadors de TMB (Transports Metropilitans de Barcelona) i volem implementar un sistema informatic capaç de comptar persones en els vagons del metro de Barcelona
 
-## Com es fara?
+## Descripció
 
-Resumidament, el que teníem pensat nosaltres és implementar uns sensors just a la porta dels vagons del metro perquè així compti les persones que hi passen, la nostra forma que havíem pensat d'implementar els sensors es tractaria de dos sensors, un que s'encarregui de comptar els que entren i l'altre dels que surten, si és possible fer els sensors s'actualitzin de manera ràpida i freqüent (cada 0,5 segons per exemple), i que els infrarojos sàpiguen diferenciar quan passen persones i quan no. <br>
+El nostre sistema el que aportaria seria que les persones poguessin veure quantes persones hi han en els vagons, això resoldria el problema que tenen dubtes sobre que tan ple van els vagons i si es millor agafar el metro o esperar-se a que hi passí un que hi te menys persones per la seva comoditat.
+
+Per el nostre sistema habiem pensat en implementar una serie de tecnologies com seria uns sensors infrarojos en les portes del vagó perquè així hi poguin comptar quantes persones entren, un codi que es comuniqui amb els infrarojos i que sigui capaç de communicar-se perqué així poguin comptar les persones que hi entren i emmagatzemar-les perque es mostrin en una interficie i un servidor que mostri l'informació.
+
+Aquest sistema estaria enfocat per aquelles persones que utilitzen el metro d'una manera regular i activa i es volen estalviar estar en vagons on hi esta ple de gent
+
 
  
-(D'Aquest tema s'hi ha en parlaré en un altra secció sobre els que se'ns queda fora de l'abast i quins problemes podrien sorgir)
 
 ## Problemes i fora d'abast
 
