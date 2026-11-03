@@ -12,13 +12,13 @@
 
 ## Context
 
-El nostre projecte de Metrocount s'emmarca com si fóssim uns treballadors de TMB (Transports Metropolitans de Barcelona) i volem implementar un sistema informàtic en unes plaques (per definir) capaç de comptar persones en els vagons del >
+El nostre projecte de Metrocount s'emmarca com si fóssim uns treballadors de TMB (Transports Metropolitans de Barcelona) i volem implementar un sistema informàtic en unes plaques (per definir) capaç de comptar persones en els vagons del metro>
 
 ## Descripció
 
 El nostre sistema el que aportaria seria que les persones poguessin veure quantes persones hi ha en els vagons, això resoldria el problema que tenen dubtes sobre que tan ple van els vagons i si és millor agafar el metro o esperar-se a q>
 
-Pel nostre sistema havíem pensat a implementar una sèrie de tecnologies com seria uns sensors infrarojos en les portes del vagó perquè així hi puguin comptar quantes persones entren, un codi que es comuniqui amb els infrarojos i que >
+Pel nostre sistema havíem pensat a implementar una sèrie de tecnologies com seria uns sensors infrarojos en les portes del vagó perquè així hi puguin comptar quantes persones entren, un codi que es comuniqui amb els infrarojos i que sigui capaç de communicar-se perqué així poguin comptar les persones que hi entren i emmagatzemar-se perque es mostrin en una interficie i un servidor que mostri l'informació.>
 
 Aquest sistema estaria enfocat per aquelles persones que utilitzen el metro d'una manera regular i activa i es volen estalviar estar en vagons on hi està ple de gent.<br>
 
