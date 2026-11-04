@@ -1,4 +1,4 @@
-#Metrocount
+# Metrocount
 
 ![Text de prova](/img/projecte-imatge.jpg)
 
@@ -12,7 +12,7 @@
 
 ## Context
 
-El nostre projecte de Metrocount s'emmarca com si fóssim uns treballadors de TMB (Transports Metropolitans de Barcelona) i volem implementar un sistema informàtic en unes plaques (per definir) capaç de comptar persones en els vagons del metro>
+El nostre projecte de Metrocount s'emmarca com si fóssim uns treballadors de TMB (Transports Metropolitans de Barcelona) i volem implementar un sistema informàtic en unes plaques (per definir) capaç de comptar persones en els vagons del metro.
 
 ## Descripció
 
