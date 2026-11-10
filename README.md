@@ -1,4 +1,4 @@
-# Metrocount
+	# Metrocount
 
 ![Text de prova](/img/projecte-imatge.jpg)
 
@@ -8,7 +8,7 @@
 
 [Documentació de la API de TMB "Incluyent autobusos"](https://developer.tmb.cat/api-docs/v1 )
 
-[Més dades per consultar de la API de TMB"](https://developer.tmb.cat/data)
+[Més dades per consultar de la API de TMB](https://developer.tmb.cat/data)
 
 ## Context
 
@@ -27,7 +27,7 @@ Aquest sistema estaria enfocat per aquelles persones que utilitzen el metro d'un
 Els problemes d'abast en els quals ens podríem arribar a trobar és la precisió d'aquestes dades, un dels principals reptes d'aquest projecte és que les dades no podran ser 100% precises quan hi ha molta gent intentant entrar al metro o quan el wifi falla per un cert temps.<br>
 
 També en la part de recollida de dades els repetidors de wifi que hi ha que serveixen per enviar les dades cap al servidor sobre les persones podria fallar per culpa de l'alta demanda de persones que utilitzessin la xarxa<br>
-
+	
 El que entra en el projecte és el hardware i com estarà dissenyat la placa i la seva programació, però no el xassís i disseny, només tota la lògica i programació que hi ha dintre.<br>
 
 
