@@ -4,9 +4,10 @@ En el nostre projecte disposarem una base de dades, un servidor web, dos dominis
 
 # Estructura
 
-Interna: El backend de la pagina, base de dades, els scripts i la logica, domini de gestió.
+Interna: El backend de la pagina, base de dades, els scripts i la logica, domini de gestió.<br>
 Externa: Els sensors, el frontend, repetidors wifi, etc.
 
 # Entorn
+
 
 
