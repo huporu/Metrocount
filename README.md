@@ -1,4 +1,4 @@
-	# Metrocount
+# Metrocount
 
 ![Text de prova](/img/projecte-imatge.jpg)
 
