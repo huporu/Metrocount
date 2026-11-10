@@ -9,5 +9,5 @@ Externa: Els sensors, el frontend, repetidors wifi, etc.
 
 # Entorn
 
-L'entorn del nostre sistema será els usuaris que utilitzin el metro, dispositius d'interconnexió i el servidor.<br> 
+L'entorn del nostre sistema será els usuaris que utilitzin el metro, dispositius d'interconnexió, el servidor i l'aplicació que utilitzaràn els usuaris de TMB.<br> 
 
